@@ -2,7 +2,7 @@
 
 > A photography portfolio created using HTML5, CSS & Javascript.
 
-![](./img/thumbnail.jpg)
+![](thumbnail.jpg)
 
 Fonts used in the webpage: [Montserrat](https://fonts.google.com/specimen/Montserrat?query=montse)
 
